@@ -18,10 +18,10 @@ flutter run
 
 ### Screenshots
 #### Home Screen
-<img src="./screenshots/home_screen.png" width="350" alt="Home Screen" style="border: 1px solid black;"/><br>
+<kbd><img src="./screenshots/home_screen.png" width="350" alt="Home Screen"/><br></kbd>
 #### Services Screen
-<img src="./screenshots/services_screen.png" width="350" alt="Services Screen" style="border: 1px solid black;" /><br>
+<kbd><img src="./screenshots/services_screen.png" width="350" alt="Services Screen"/><br></kbd>
 #### Activity Screen
-<img src="./screenshots/activity_screen.png" width="350" alt="Activity Screen" style="border: 1px solid black;" /><br>
+<kbd><img src="./screenshots/activity_screen.png" width="350" alt="Activity Screen"/><br></kbd>
 #### Account Screen
-<img src="./screenshots/account_screen.png" width="350" alt="Account Screen" style="border: 1px solid black;" /><br>
+<kbd><img src="./screenshots/account_screen.png" width="350" alt="Account Screen"/><br></kbd>
